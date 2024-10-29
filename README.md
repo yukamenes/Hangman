@@ -20,10 +20,10 @@ The game gives feedback on correct and incorrect guesses, and displays a visual 
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Hangman.git
+   git clone https://github.com/yukamenes/Hangman.git
 2. Run the hangman.py script
    ```bash
-   python hangman.py
+   python main.py
 3. Guess letters one by one. Each incorrect guess decreases your lives.
 4. Win by guessing the entire word before running out of lives, or lose if you reach 0 lives.
 ![image](https://github.com/user-attachments/assets/8881fc52-45df-421d-b7f6-84251f297316)
@@ -31,5 +31,5 @@ The game gives feedback on correct and incorrect guesses, and displays a visual 
 ## License
 This project is open-source and available under the MIT License.
 
-Enjoy playing Hangman! Good luck with your guesses!
+## Enjoy playing Hangman! Good luck with your guesses!
 
